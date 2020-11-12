@@ -1,0 +1,17 @@
+- Section 1: Introduction
+- Section 2: TensorFlow 2.0 Basics
+- Section 3: Artificial Neural Networks
+- Section 4: Convolutional Neural Networks
+- Section 5: Recurrent Neural Networks
+- Section 6: Transfer Learning and Fine Tuning
+- Section 7: Deep Reinforcement Learning Theory
+- Section 8: Deep Reinforcement Learning for Stock Market Trading
+- Section 9: Data Validation with TensorFLow Data Validation (TFDV)
+- Section 10: Dataset Preprocessing with TensorFLow Transform (TFT)
+- Section 11: Fashion API with Flask and TensorFLow 2.0
+- Section 12: Image Classification API with TensorFlow Serving
+- Section 13: TensorFLow Lite: Prepare a model for a mobile device
+- Section 14: Distributed Training with TensorFLow 2.0
+- Section 15: Annex 1 - Artificial Neural Networks Theory
+- Section 16: Annex 2 - Convolutional Neural Networks Theory
+- Section 17: Annex 3 - Recurrent Neural Networks Theory
