@@ -15,3 +15,4 @@
 - Section 15: Annex 1 - Artificial Neural Networks Theory
 - Section 16: Annex 2 - Convolutional Neural Networks Theory
 - Section 17: Annex 3 - Recurrent Neural Networks Theory
+- Section 18: Bonus
